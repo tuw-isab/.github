@@ -9,6 +9,26 @@ Our interdisciplinary research group aims to bridge the gap between basic and ap
 
  <hr /> 
 
+## People
+
+**Aaron Vracar** - Student assistant <br>  
+**Adil Mukhtar** - Postdoc <br>  
+**Benjamin Kohl** - PhD student <br>  
+**Christian Maier** - Student assistant <br>  
+**Ghazal Arzanian** - Student assistant <br>  
+**Gerald Schweiger** - Lab head <br>  
+**Johannes Exenberger** - PhD student <br>  
+**Katja Ceplak** - PhD student <br>  
+**Katharina Haidn** - Management <br>  
+**Michael Hadwiger** - PhD student <br>  
+**Richard Kraus** - Student assistant <br>  
+**Samina Kadkhoda Masoumali** - Student assistant <br>  
+**Thomas Hirsch** - Postdoc <br>  
+**Valerie Kakoschke** - Student assistant <br>  
+**Veronika Windisch** - Student assistant <br>  
+
+ <hr /> 
+
 ## Recent News 
 
 
@@ -41,25 +61,6 @@ The project [PersonAI](https://projekte.ffg.at/projekt/4762145) start in Novembe
 * Our living lab [Innovation District Inffeld](https://youtu.be/8b7QwC2dkvo) <br> 
 * Critical thoughts on [Smart Buildings](https://www.linkedin.com/posts/gerald-schweiger-b7116a1bb_my-thoughts-on-smart-buildings-activity-7009608036952477696-DE0_?utm_source=share&utm_medium=member_desktop) <br> 
 
-
-
-## People
-
-**Aaron Vracar** - Student assistant <br>  
-**Adil Mukhtar** - Postdoc <br>  
-**Benjamin Kohl** - PhD student <br>  
-**Christian Maier** - Student assistant <br>  
-**Ghazal Arzanian** - Student assistant <br>  
-**Gerald Schweiger** - Lab head <br>  
-**Johannes Exenberger** - PhD student <br>  
-**Katja Ceplak** - PhD student <br>  
-**Katharina Haidn** - Management <br>  
-**Michael Hadwiger** - PhD student <br>  
-**Richard Kraus** - Student assistant <br>  
-**Samina Kadkhoda Masoumali** - Student assistant <br>  
-**Thomas Hirsch** - Postdoc <br>  
-**Valerie Kakoschke** - Student assistant <br>  
-**Veronika Windisch** - Student assistant <br>  
 
 
 ## Ongoing Projects
